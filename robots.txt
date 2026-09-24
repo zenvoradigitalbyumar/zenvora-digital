@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zenvoradigitalbyumar.com/sitemap.xml

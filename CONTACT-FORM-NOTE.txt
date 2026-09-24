@@ -1,0 +1,3 @@
+Contact form:
+The current form opens the visitor's email application and prepares an enquiry addressed to zenvoradigitalbyumar@gmail.com.
+For a server-side form that works even when a visitor has no email app configured, connect a form service (e.g. Formspree) or your own backend before launch.
